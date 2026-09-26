@@ -1,0 +1,521 @@
+Year,State,epi_week,LGA,Population (2016 census),Number of cases,Deaths,Proportion of cases by LGA,Case fatality rate (%),"LGA attack rate per 1,000,000",Rainfall_mm,Temperature_C,Humidity_%,Primary_Water_Source,Secondary_Water_Source,Water_Safety_Level,Sanitation_Type,Toilet_Access_%,Open_Defecation_%,Waste_Management_Level,Health_Facilities_Count,Hospital_Count,Health_Workers,Access_Level,Flood_Risk_Level,Proximity_to_Water_Body,Elevation_m,Environmental_Risk
+2019,Bauchi,1,Alkaleri,89943,0,0,0,0,0,3,35.4,29,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,2,Alkaleri,89943,0,0,0,0,0,0,32.1,21,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,3,Alkaleri,89943,0,0,0,0,0,3,33.4,31,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,4,Alkaleri,89943,0,0,0,0,0,3,35,34,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,5,Alkaleri,89943,0,0,0,0,0,2,37.5,23,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,6,Alkaleri,89943,0,0,0,0,0,1,36,21,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,7,Alkaleri,89943,0,0,0,0,0,1,35.4,32,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,8,Alkaleri,89943,0,0,0,0,0,1,36.7,21,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,9,Alkaleri,89943,0,0,0,0,0,11,41.2,33,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,10,Alkaleri,89943,0,0,0,0,0,9,38.6,31,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,11,Alkaleri,89943,0,0,0,0,0,10,41.7,45,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,12,Alkaleri,89943,0,0,0,0,0,14,36.2,42,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,13,Alkaleri,89943,0,0,0,0,0,18,28.8,42,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,14,Alkaleri,89943,0,0,0,0,0,10,27.1,38,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,15,Alkaleri,89943,0,0,0,0,0,33,29.4,37,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,16,Alkaleri,89943,0,0,0,0,0,33,27.1,48,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,17,Alkaleri,89943,0,0,0,0,0,26,31.3,57,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,18,Alkaleri,89943,0,0,0,0,0,10,30.6,64,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,19,Alkaleri,89943,0,0,0,0,0,16,30.9,82,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,20,Alkaleri,89943,0,0,0,0,0,16,32.1,66,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,21,Alkaleri,89943,0,0,0,0,0,53,27.6,77,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,22,Alkaleri,89943,0,0,0,0,0,42,31,59,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,23,Alkaleri,89943,0,0,0,0,0,54,30.5,76,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,24,Alkaleri,89943,0,0,0,0,0,46,30.4,57,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,25,Alkaleri,89943,0,0,0,0,0,33,32.1,59,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,26,Alkaleri,89943,0,0,0,0,0,45,28.4,68,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,27,Alkaleri,89943,0,0,0,0,0,46,30.1,69,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,28,Alkaleri,89943,0,0,0,0,0,45,27.2,67,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,29,Alkaleri,89943,0,0,0,0,0,51,30.8,74,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,30,Alkaleri,89943,0,0,0,0,0,51,31.2,59,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,31,Alkaleri,89943,0,0,0,0,0,42,30.6,69,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,32,Alkaleri,89943,0,0,0,0,0,48,28.4,61,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,33,Alkaleri,89943,0,0,0,0,0,36,33.2,82,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,34,Alkaleri,89943,1,0,0.0001,0,11.12,11,32.7,84,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,35,Alkaleri,89943,0,0,0,0,0,34,29.6,82,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,36,Alkaleri,89943,0,0,0,0,0,37,30.3,74,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,37,Alkaleri,89943,0,0,0,0,0,39,34.3,80,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,38,Alkaleri,89943,0,0,0,0,0,32,34.4,61,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,39,Alkaleri,89943,0,0,0,0,0,39,29.7,79,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,40,Alkaleri,89943,0,0,0,0,0,36,31.6,74,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,41,Alkaleri,89943,0,0,0,0,0,14,34.2,41,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,42,Alkaleri,89943,0,0,0,0,0,7,32.1,43,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,43,Alkaleri,89943,0,0,0,0,0,6,33.2,44,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,44,Alkaleri,89943,0,0,0,0,0,13,30.5,56,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,45,Alkaleri,89943,0,0,0,0,0,7,33.1,43,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,46,Alkaleri,89943,0,0,0,0,0,3,32.2,51,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,47,Alkaleri,89943,0,0,0,0,0,1,35.8,26,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,48,Alkaleri,89943,0,0,0,0,0,1,34.3,24,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,49,Alkaleri,89943,0,0,0,0,0,0,36,36,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,50,Alkaleri,89943,0,0,0,0,0,1,33,24,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,51,Alkaleri,89943,0,0,0,0,0,7,35.4,38,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,52,Alkaleri,89943,0,0,0,0,0,5,30.9,31,Borehole ,Borehole,Low,Flush Toilet,30,15,Poor,10,2,55,Moderate,High,Near River,450,High
+2019,Bauchi,1,Bauchi,219988,24,0,0.0025,0,109.1,0,33,20,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,2,Bauchi,219988,26,0,0.0027,0,118.19,1,33.4,25,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,3,Bauchi,219988,26,0,0.0027,0,118.19,0,36,24,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,4,Bauchi,219988,18,0,0.0019,0,81.82,0,37.7,26,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,5,Bauchi,219988,23,0,0.0024,0,104.55,4,35.7,26,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,6,Bauchi,219988,22,0,0.0023,0,100.01,2,33.5,22,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,7,Bauchi,219988,29,0,0.003,0,131.83,4,32.7,32,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,8,Bauchi,219988,25,0,0.0026,0,113.64,3,32.3,20,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,9,Bauchi,219988,61,0,0.0063,0,277.29,5,35.4,29,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,10,Bauchi,219988,69,0,0.0071,0,313.65,11,37.9,26,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,11,Bauchi,219988,71,0,0.0073,0,322.74,5,35.4,34,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,12,Bauchi,219988,80,1,0.0082,1.25,363.66,8,34.4,34,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,13,Bauchi,219988,61,0,0.0063,0,277.29,13,27.3,39,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,14,Bauchi,219988,64,0,0.0066,0,290.92,28,30,30,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,15,Bauchi,219988,54,0,0.0056,0,245.47,33,31,33,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,16,Bauchi,219988,202,1,0.0208,0.5,918.23,25,27.4,31,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,17,Bauchi,219988,188,0,0.0194,0,854.59,26,32.2,81,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,18,Bauchi,219988,189,0,0.0195,0,859.14,29,30.5,72,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,19,Bauchi,219988,203,3,0.0209,1.48,922.78,12,30.9,55,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,20,Bauchi,219988,161,1,0.0166,0.62,731.86,28,31.9,66,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,21,Bauchi,219988,392,2,0.0404,0.51,1781.92,22,31.9,62,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,22,Bauchi,219988,361,0,0.0372,0,1641,29,28.2,83,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,23,Bauchi,219988,427,0,0.044,0,1941.01,32,28.3,68,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,24,Bauchi,219988,373,0,0.0384,0,1695.55,21,27.2,72,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,25,Bauchi,219988,362,1,0.0373,0.28,1645.54,54,29,80,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,26,Bauchi,219988,384,0,0.0395,0,1745.55,27,29.3,64,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,27,Bauchi,219988,394,2,0.0406,0.51,1791.01,45,29,73,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,28,Bauchi,219988,366,0,0.0377,0,1663.73,26,27.7,75,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,29,Bauchi,219988,348,3,0.0358,0.86,1581.9,30,32.3,58,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,30,Bauchi,219988,387,1,0.0398,0.26,1759.19,44,31.8,79,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,31,Bauchi,219988,400,2,0.0412,0.5,1818.28,29,29.5,78,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,32,Bauchi,219988,368,0,0.0379,0,1672.82,54,32.9,70,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,33,Bauchi,219988,366,1,0.0377,0.27,1663.73,13,31.2,61,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,34,Bauchi,219988,384,1,0.0395,0.26,1745.55,33,34.2,59,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,35,Bauchi,219988,382,0,0.0393,0,1736.46,21,31.6,67,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,36,Bauchi,219988,200,0,0.0206,0,909.14,32,33.5,63,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,37,Bauchi,219988,188,2,0.0194,1.06,854.59,39,34.4,84,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,38,Bauchi,219988,172,1,0.0177,0.58,781.86,29,34,76,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,39,Bauchi,219988,184,0,0.0189,0,836.41,22,34.4,71,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,40,Bauchi,219988,183,0,0.0188,0,831.86,13,29.1,63,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,41,Bauchi,219988,180,0,0.0185,0,818.23,13,31.1,48,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,42,Bauchi,219988,187,1,0.0193,0.53,850.05,16,29.5,39,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,43,Bauchi,219988,49,0,0.005,0,222.74,4,32.6,54,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,44,Bauchi,219988,64,0,0.0066,0,290.92,5,34.7,50,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,45,Bauchi,219988,61,0,0.0063,0,277.29,0,30.7,55,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,46,Bauchi,219988,70,0,0.0072,0,318.2,1,35.8,48,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,47,Bauchi,219988,66,1,0.0068,1.52,300.02,6,30.3,22,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,48,Bauchi,219988,29,0,0.003,0,131.83,6,33.3,30,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,49,Bauchi,219988,19,0,0.002,0,86.37,1,35.8,28,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,50,Bauchi,219988,27,0,0.0028,0,122.73,1,35,36,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,51,Bauchi,219988,24,0,0.0025,0,109.1,4,35,33,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,52,Bauchi,219988,24,0,0.0025,0,109.1,4,31.3,28,Borehole ,Open Well,Low,Flush Toilet,25,20,Poor,7,1,35,Low,Moderate,Near Pond,430,Medium
+2019,Bauchi,1,Bogoro,84215,0,0,0,0,0,4,33.9,25,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,2,Bogoro,84215,0,0,0,0,0,4,38,24,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,3,Bogoro,84215,0,0,0,0,0,3,35.3,23,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,4,Bogoro,84215,0,0,0,0,0,0,35.1,28,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,5,Bogoro,84215,1,0,0.0001,0,11.87,0,36.2,34,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,6,Bogoro,84215,0,0,0,0,0,0,35.8,25,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,7,Bogoro,84215,0,0,0,0,0,2,37.4,28,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,8,Bogoro,84215,0,0,0,0,0,2,33.7,27,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,9,Bogoro,84215,1,0,0.0001,0,11.87,7,37.6,31,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,10,Bogoro,84215,1,0,0.0001,0,11.87,6,36.2,31,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,11,Bogoro,84215,0,0,0,0,0,5,37.7,47,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,12,Bogoro,84215,0,0,0,0,0,13,34.6,38,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,13,Bogoro,84215,0,0,0,0,0,13,32.9,46,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,14,Bogoro,84215,0,0,0,0,0,18,28.9,49,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,15,Bogoro,84215,0,0,0,0,0,22,31.1,42,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,16,Bogoro,84215,0,0,0,0,0,23,27.5,35,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,17,Bogoro,84215,1,0,0.0001,0,11.87,27,29.5,59,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,18,Bogoro,84215,0,0,0,0,0,24,32.5,64,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,19,Bogoro,84215,0,0,0,0,0,33,32.3,81,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,20,Bogoro,84215,0,0,0,0,0,22,28,78,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,21,Bogoro,84215,0,0,0,0,0,52,31.7,72,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,22,Bogoro,84215,0,0,0,0,0,51,32.9,65,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,23,Bogoro,84215,0,0,0,0,0,40,31.5,79,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,24,Bogoro,84215,0,0,0,0,0,41,32,71,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,25,Bogoro,84215,0,0,0,0,0,32,27.4,63,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,26,Bogoro,84215,1,0,0.0001,0,11.87,54,27.8,75,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,27,Bogoro,84215,0,0,0,0,0,25,31.2,59,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,28,Bogoro,84215,2,0,0.0002,0,23.75,50,31.5,57,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,29,Bogoro,84215,0,0,0,0,0,42,31.6,59,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,30,Bogoro,84215,0,0,0,0,0,29,32.1,71,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,31,Bogoro,84215,1,0,0.0001,0,11.87,40,29.7,68,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,32,Bogoro,84215,0,0,0,0,0,20,32.7,67,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,33,Bogoro,84215,1,0,0.0001,0,11.87,13,30.4,71,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,34,Bogoro,84215,0,0,0,0,0,17,32.7,82,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,35,Bogoro,84215,1,0,0.0001,0,11.87,17,29.1,80,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,36,Bogoro,84215,0,0,0,0,0,11,31.9,57,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,37,Bogoro,84215,0,0,0,0,0,36,30.8,55,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,38,Bogoro,84215,0,0,0,0,0,31,34.8,84,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,39,Bogoro,84215,0,0,0,0,0,39,33.8,71,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,40,Bogoro,84215,0,0,0,0,0,25,31.9,77,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,41,Bogoro,84215,0,0,0,0,0,16,33.7,48,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,42,Bogoro,84215,0,0,0,0,0,3,33.8,41,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,43,Bogoro,84215,0,0,0,0,0,7,32.7,36,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,44,Bogoro,84215,0,0,0,0,0,7,32.6,52,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,45,Bogoro,84215,0,0,0,0,0,5,33.3,53,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,46,Bogoro,84215,0,0,0,0,0,6,34.4,59,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,47,Bogoro,84215,0,0,0,0,0,5,32.7,34,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,48,Bogoro,84215,0,0,0,0,0,3,31.8,29,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,49,Bogoro,84215,0,0,0,0,0,2,34.2,23,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,50,Bogoro,84215,0,0,0,0,0,1,35.6,29,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,51,Bogoro,84215,0,0,0,0,0,0,31.5,24,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,52,Bogoro,84215,0,0,0,0,0,1,33.7,21,Borehole ,Borehole,High,Flush Toilet,35,15,Good,9,1,45,High,High,Near River,460,High
+2019,Bauchi,1,Darazo,251597,0,0,0,0,0,4,32,23,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,2,Darazo,251597,0,0,0,0,0,0,32.5,22,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,3,Darazo,251597,0,0,0,0,0,4,37.9,34,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,4,Darazo,251597,0,0,0,0,0,1,36.6,33,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,5,Darazo,251597,0,0,0,0,0,1,36.5,33,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,6,Darazo,251597,0,0,0,0,0,2,33.5,26,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,7,Darazo,251597,0,0,0,0,0,2,37.4,33,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,8,Darazo,251597,0,0,0,0,0,2,35.2,32,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,9,Darazo,251597,0,0,0,0,0,3,37.6,22,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,10,Darazo,251597,0,0,0,0,0,4,35.9,28,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,11,Darazo,251597,0,0,0,0,0,8,37,39,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,12,Darazo,251597,0,0,0,0,0,8,36.6,36,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,13,Darazo,251597,0,0,0,0,0,31,29,41,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,14,Darazo,251597,0,0,0,0,0,34,32.3,49,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,15,Darazo,251597,0,0,0,0,0,34,31.1,32,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,16,Darazo,251597,0,0,0,0,0,18,30,44,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,17,Darazo,251597,0,0,0,0,0,13,30.2,56,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,18,Darazo,251597,0,0,0,0,0,24,31.5,71,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,19,Darazo,251597,0,0,0,0,0,21,27.8,63,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,20,Darazo,251597,0,0,0,0,0,14,29.2,80,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,21,Darazo,251597,0,0,0,0,0,53,28.5,81,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,22,Darazo,251597,0,0,0,0,0,25,30.6,55,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,23,Darazo,251597,0,0,0,0,0,41,28.4,60,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,24,Darazo,251597,0,0,0,0,0,23,32.1,84,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,25,Darazo,251597,0,0,0,0,0,49,28,77,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,26,Darazo,251597,0,0,0,0,0,28,27.5,73,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,27,Darazo,251597,0,0,0,0,0,50,29.5,58,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,28,Darazo,251597,0,0,0,0,0,43,27.7,56,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,29,Darazo,251597,0,0,0,0,0,39,32.8,58,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,30,Darazo,251597,0,0,0,0,0,34,31.9,71,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,31,Darazo,251597,0,0,0,0,0,49,28,73,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,32,Darazo,251597,1,0,0.0001,0,3.97,21,30.3,62,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,33,Darazo,251597,1,0,0.0001,0,3.97,35,30.7,66,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,34,Darazo,251597,0,0,0,0,0,14,30.1,76,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,35,Darazo,251597,0,0,0,0,0,13,31.6,55,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,36,Darazo,251597,0,0,0,0,0,29,30.5,69,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,37,Darazo,251597,0,0,0,0,0,10,32.7,60,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,38,Darazo,251597,0,0,0,0,0,14,32,58,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,39,Darazo,251597,0,0,0,0,0,22,32.2,55,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,40,Darazo,251597,0,0,0,0,0,15,31,64,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,41,Darazo,251597,0,0,0,0,0,6,29.4,46,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,42,Darazo,251597,0,0,0,0,0,3,30.9,36,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,43,Darazo,251597,0,0,0,0,0,2,29.8,43,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,44,Darazo,251597,0,0,0,0,0,18,29.7,49,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,45,Darazo,251597,0,0,0,0,0,7,33.6,37,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,46,Darazo,251597,0,0,0,0,0,5,30.6,39,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,47,Darazo,251597,0,0,0,0,0,5,34.5,37,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,48,Darazo,251597,0,0,0,0,0,5,35.6,30,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,49,Darazo,251597,0,0,0,0,0,0,31.2,22,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,50,Darazo,251597,0,0,0,0,0,2,35.6,27,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,51,Darazo,251597,0,0,0,0,0,2,34.8,33,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,52,Darazo,251597,0,0,0,0,0,3,31,24,Borehole ,Protected Well,Low,Flush Toilet,30,35,Poor,5,0,20,Low,Low,Near River,428,High
+2019,Bauchi,1,Dass,89943,0,0,0,0,0,1,32.1,22,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,2,Dass,89943,0,0,0,0,0,2,35.4,29,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,3,Dass,89943,0,0,0,0,0,2,35.6,23,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,4,Dass,89943,0,0,0,0,0,2,37.8,27,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,5,Dass,89943,0,0,0,0,0,1,37.7,31,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,6,Dass,89943,0,0,0,0,0,1,35.5,33,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,7,Dass,89943,0,0,0,0,0,1,35.7,34,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,8,Dass,89943,0,0,0,0,0,3,35.6,31,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,9,Dass,89943,0,0,0,0,0,5,41.4,24,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,10,Dass,89943,0,0,0,0,0,9,34.2,34,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,11,Dass,89943,0,0,0,0,0,11,40.2,38,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,12,Dass,89943,0,0,0,0,0,7,34.6,43,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,13,Dass,89943,0,0,0,0,0,17,32,40,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,14,Dass,89943,0,0,0,0,0,32,27.7,34,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,15,Dass,89943,0,0,0,0,0,30,28,33,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,16,Dass,89943,0,0,0,0,0,31,32,30,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,17,Dass,89943,0,0,0,0,0,31,30.1,62,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,18,Dass,89943,1,0,0.0001,0,11.12,24,29.4,63,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,19,Dass,89943,0,0,0,0,0,30,29,74,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,20,Dass,89943,0,0,0,0,0,34,27,63,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,21,Dass,89943,1,0,0.0001,0,11.12,54,29.4,79,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,22,Dass,89943,0,0,0,0,0,45,32.5,56,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,23,Dass,89943,0,0,0,0,0,26,29.1,56,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,24,Dass,89943,0,0,0,0,0,46,29.7,65,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,25,Dass,89943,1,0,0.0001,0,11.12,43,30.5,74,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,26,Dass,89943,0,0,0,0,0,25,27.2,55,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,27,Dass,89943,0,0,0,0,0,48,30.5,76,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,28,Dass,89943,1,0,0.0001,0,11.12,45,27.1,75,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,29,Dass,89943,1,0,0.0001,0,11.12,26,32.9,63,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,30,Dass,89943,0,0,0,0,0,39,29.5,82,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,31,Dass,89943,0,0,0,0,0,26,30.6,67,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,32,Dass,89943,0,0,0,0,0,49,31.5,81,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,33,Dass,89943,0,0,0,0,0,33,34.4,84,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,34,Dass,89943,0,0,0,0,0,38,32.7,83,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,35,Dass,89943,0,0,0,0,0,39,34,73,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,36,Dass,89943,0,0,0,0,0,27,30.8,73,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,37,Dass,89943,1,1,0.0001,100,11.12,24,32.2,76,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,38,Dass,89943,0,0,0,0,0,37,31.9,84,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,39,Dass,89943,0,0,0,0,0,15,33.6,58,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,40,Dass,89943,0,0,0,0,0,10,31,77,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,41,Dass,89943,1,0,0.0001,0,11.12,8,33.5,44,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,42,Dass,89943,0,0,0,0,0,11,34.4,36,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,43,Dass,89943,0,0,0,0,0,2,29.2,52,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,44,Dass,89943,0,0,0,0,0,8,33,35,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,45,Dass,89943,0,0,0,0,0,0,31.3,58,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,46,Dass,89943,0,0,0,0,0,6,34,42,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,47,Dass,89943,0,0,0,0,0,5,32,24,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,48,Dass,89943,0,0,0,0,0,2,35.3,34,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,49,Dass,89943,0,0,0,0,0,7,30.6,33,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,50,Dass,89943,0,0,0,0,0,7,35.1,30,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,51,Dass,89943,0,0,0,0,0,7,32.4,24,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,52,Dass,89943,0,0,0,0,0,5,31.2,35,Borehole ,Borehole,Low,Flush Toilet,35,15,Good,9,2,60,Moderate,High,Near River,480,Medium
+2019,Bauchi,1,Ganjuwa,251597,0,0,0,0,0,4,34.9,29,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,2,Ganjuwa,251597,1,0,0.0001,0,3.97,3,35.2,22,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,3,Ganjuwa,251597,1,0,0.0001,0,3.97,2,37,20,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,4,Ganjuwa,251597,1,0,0.0001,0,3.97,2,35.6,21,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,5,Ganjuwa,251597,0,0,0,0,0,0,36.6,24,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,6,Ganjuwa,251597,2,0,0.0002,0,7.95,0,32.5,20,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,7,Ganjuwa,251597,1,0,0.0001,0,3.97,0,35,30,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,8,Ganjuwa,251597,1,0,0.0001,0,3.97,1,34.8,22,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,9,Ganjuwa,251597,3,0,0.0003,0,11.92,4,34.6,31,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,10,Ganjuwa,251597,2,0,0.0002,0,7.95,13,41.7,25,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,11,Ganjuwa,251597,1,0,0.0001,0,3.97,3,34.8,34,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,12,Ganjuwa,251597,3,0,0.0003,0,11.92,13,40.5,46,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,13,Ganjuwa,251597,1,0,0.0001,0,3.97,26,32.7,46,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,14,Ganjuwa,251597,0,0,0,0,0,24,27.5,45,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,15,Ganjuwa,251597,3,0,0.0003,0,11.92,33,31.6,46,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,16,Ganjuwa,251597,4,0,0.0004,0,15.9,32,31.3,45,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,17,Ganjuwa,251597,7,0,0.0007,0,27.82,15,32.9,72,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,18,Ganjuwa,251597,4,0,0.0004,0,15.9,34,30.9,81,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,19,Ganjuwa,251597,7,0,0.0007,0,27.82,18,32.7,69,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,20,Ganjuwa,251597,3,0,0.0003,0,11.92,19,30.5,71,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,21,Ganjuwa,251597,16,0,0.0016,0,63.59,42,30.3,76,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,22,Ganjuwa,251597,12,0,0.0012,0,47.7,26,27.2,75,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,23,Ganjuwa,251597,6,0,0.0006,0,23.85,26,28.8,70,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,24,Ganjuwa,251597,10,1,0.001,10,39.75,27,32.8,77,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,25,Ganjuwa,251597,17,0,0.0018,0,67.57,48,29.8,84,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,26,Ganjuwa,251597,9,0,0.0009,0,35.77,54,28.9,64,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,27,Ganjuwa,251597,7,0,0.0007,0,27.82,36,30.9,78,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,28,Ganjuwa,251597,9,0,0.0009,0,35.77,54,30.4,67,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,29,Ganjuwa,251597,9,0,0.0009,0,35.77,53,32.3,65,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,30,Ganjuwa,251597,11,0,0.0011,0,43.72,45,31.3,66,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,31,Ganjuwa,251597,11,0,0.0011,0,43.72,34,31.8,58,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,32,Ganjuwa,251597,8,0,0.0008,0,31.8,48,31,67,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,33,Ganjuwa,251597,7,0,0.0007,0,27.82,27,32.1,67,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,34,Ganjuwa,251597,11,0,0.0011,0,43.72,19,34.3,56,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,35,Ganjuwa,251597,9,0,0.0009,0,35.77,32,31.8,56,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,36,Ganjuwa,251597,3,0,0.0003,0,11.92,39,29,67,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,37,Ganjuwa,251597,8,0,0.0008,0,31.8,22,31.3,57,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,38,Ganjuwa,251597,6,0,0.0006,0,23.85,36,35,74,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,39,Ganjuwa,251597,5,0,0.0005,0,19.87,38,33.6,83,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,40,Ganjuwa,251597,6,0,0.0006,0,23.85,39,31.9,79,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,41,Ganjuwa,251597,4,0,0.0004,0,15.9,17,34.2,49,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,42,Ganjuwa,251597,5,0,0.0005,0,19.87,11,29.6,41,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,43,Ganjuwa,251597,1,0,0.0001,0,3.97,6,33.4,51,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,44,Ganjuwa,251597,0,0,0,0,0,4,31.8,58,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,45,Ganjuwa,251597,1,0,0.0001,0,3.97,5,35.1,52,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,46,Ganjuwa,251597,1,0,0.0001,0,3.97,5,33.5,50,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,47,Ganjuwa,251597,2,0,0.0002,0,7.95,0,35.5,34,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,48,Ganjuwa,251597,0,0,0,0,0,0,30.7,23,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,49,Ganjuwa,251597,0,0,0,0,0,3,35.7,24,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,50,Ganjuwa,251597,0,0,0,0,0,4,31.6,25,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,51,Ganjuwa,251597,1,0,0.0001,0,3.97,6,35.3,33,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,52,Ganjuwa,251597,2,0,0.0002,0,7.95,7,32.8,32,Open Well ,Pond,High,Pit Latrine,35,35,Good,10,1,20,Moderate,Moderate,Near Pond,460,High
+2019,Bauchi,1,Kirfi,84215,0,0,0,0,0,2,36.9,25,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,2,Kirfi,84215,0,0,0,0,0,4,33.3,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,3,Kirfi,84215,0,0,0,0,0,0,35.6,33,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,4,Kirfi,84215,0,0,0,0,0,4,32.5,28,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,5,Kirfi,84215,0,0,0,0,0,2,33.6,32,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,6,Kirfi,84215,0,0,0,0,0,0,32.3,21,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,7,Kirfi,84215,0,0,0,0,0,3,32.2,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,8,Kirfi,84215,0,0,0,0,0,0,35.3,30,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,9,Kirfi,84215,0,0,0,0,0,3,37.3,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,10,Kirfi,84215,0,0,0,0,0,7,36.1,24,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,11,Kirfi,84215,0,0,0,0,0,11,38.3,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,12,Kirfi,84215,0,0,0,0,0,13,34.9,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,13,Kirfi,84215,0,0,0,0,0,22,32.1,37,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,14,Kirfi,84215,0,0,0,0,0,22,29.9,48,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,15,Kirfi,84215,0,0,0,0,0,12,29.1,31,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,16,Kirfi,84215,0,0,0,0,0,17,30.4,42,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,17,Kirfi,84215,0,0,0,0,0,10,32.3,73,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,18,Kirfi,84215,0,0,0,0,0,25,31,55,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,19,Kirfi,84215,0,0,0,0,0,25,31.3,65,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,20,Kirfi,84215,0,0,0,0,0,22,31.2,64,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,21,Kirfi,84215,0,0,0,0,0,46,31.5,61,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,22,Kirfi,84215,0,0,0,0,0,24,32.3,80,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,23,Kirfi,84215,1,0,0.0001,0,11.87,50,32,64,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,24,Kirfi,84215,0,0,0,0,0,51,29,84,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,25,Kirfi,84215,0,0,0,0,0,50,27,56,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,26,Kirfi,84215,0,0,0,0,0,33,31.5,66,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,27,Kirfi,84215,0,0,0,0,0,21,28.7,68,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,28,Kirfi,84215,0,0,0,0,0,46,32.9,71,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,29,Kirfi,84215,0,0,0,0,0,50,29.3,78,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,30,Kirfi,84215,0,0,0,0,0,54,27.8,73,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,31,Kirfi,84215,0,0,0,0,0,49,27.1,63,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,32,Kirfi,84215,0,0,0,0,0,51,32,82,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,33,Kirfi,84215,0,0,0,0,0,37,30.1,59,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,34,Kirfi,84215,0,0,0,0,0,38,33.7,74,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,35,Kirfi,84215,0,0,0,0,0,13,29.4,81,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,36,Kirfi,84215,0,0,0,0,0,26,33.6,71,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,37,Kirfi,84215,0,0,0,0,0,19,31.8,76,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,38,Kirfi,84215,0,0,0,0,0,35,29.4,72,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,39,Kirfi,84215,0,0,0,0,0,27,34.9,69,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,40,Kirfi,84215,0,0,0,0,0,38,31.7,81,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,41,Kirfi,84215,0,0,0,0,0,4,32.6,46,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,42,Kirfi,84215,0,0,0,0,0,8,29.4,35,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,43,Kirfi,84215,0,0,0,0,0,7,31.2,53,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,44,Kirfi,84215,0,0,0,0,0,12,33.1,36,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,45,Kirfi,84215,0,0,0,0,0,5,32.8,38,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,46,Kirfi,84215,0,0,0,0,0,0,30.6,43,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,47,Kirfi,84215,0,0,0,0,0,6,33.2,30,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,48,Kirfi,84215,0,0,0,0,0,3,35,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,49,Kirfi,84215,0,0,0,0,0,5,31.4,30,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,50,Kirfi,84215,0,0,0,0,0,2,35.2,31,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,51,Kirfi,84215,0,0,0,0,0,7,32.6,34,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,52,Kirfi,84215,0,0,0,0,0,7,35.1,39,Open Well ,Protected Well,Low,Flush Toilet,35,35,Poor,7,1,65,High,Low,Far,460,Medium
+2019,Bauchi,1,Tafawa Balewa,219988,1,0,0.0001,0,4.55,1,34.9,34,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,2,Tafawa Balewa,219988,0,0,0,0,0,0,33,33,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,3,Tafawa Balewa,219988,4,0,0.0004,0,18.18,2,36.3,31,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,4,Tafawa Balewa,219988,1,0,0.0001,0,4.55,3,33,32,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,5,Tafawa Balewa,219988,2,0,0.0002,0,9.09,2,33.3,26,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,6,Tafawa Balewa,219988,0,0,0,0,0,3,36.5,32,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,7,Tafawa Balewa,219988,0,0,0,0,0,4,36,22,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,8,Tafawa Balewa,219988,0,0,0,0,0,3,35.3,21,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,9,Tafawa Balewa,219988,3,0,0.0003,0,13.64,4,35.8,27,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,10,Tafawa Balewa,219988,2,0,0.0002,0,9.09,10,37.9,31,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,11,Tafawa Balewa,219988,5,0,0.0005,0,22.73,11,37.2,44,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,12,Tafawa Balewa,219988,2,0,0.0002,0,9.09,2,40.7,46,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,13,Tafawa Balewa,219988,6,0,0.0006,0,27.27,30,31.4,49,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,14,Tafawa Balewa,219988,1,0,0.0001,0,4.55,14,29.1,41,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,15,Tafawa Balewa,219988,5,0,0.0005,0,22.73,29,30,47,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,16,Tafawa Balewa,219988,10,0,0.001,0,45.46,26,30.1,38,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,17,Tafawa Balewa,219988,10,0,0.001,0,45.46,13,27.2,56,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,18,Tafawa Balewa,219988,11,0,0.0011,0,50,13,32.2,56,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,19,Tafawa Balewa,219988,10,0,0.001,0,45.46,13,29.5,64,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,20,Tafawa Balewa,219988,9,0,0.0009,0,40.91,28,30.6,76,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,21,Tafawa Balewa,219988,11,0,0.0011,0,50,31,29.3,72,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,22,Tafawa Balewa,219988,9,0,0.0009,0,40.91,40,31.4,57,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,23,Tafawa Balewa,219988,22,0,0.0023,0,100.01,45,31.3,70,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,24,Tafawa Balewa,219988,17,0,0.0018,0,77.28,49,28.1,66,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,25,Tafawa Balewa,219988,19,0,0.002,0,86.37,33,32.8,77,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,26,Tafawa Balewa,219988,15,0,0.0015,0,68.19,24,27.4,63,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,27,Tafawa Balewa,219988,11,0,0.0011,0,50,33,30.1,79,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,28,Tafawa Balewa,219988,12,0,0.0012,0,54.55,39,30.6,60,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,29,Tafawa Balewa,219988,18,1,0.0019,5.56,81.82,36,29.3,79,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,30,Tafawa Balewa,219988,16,0,0.0016,0,72.73,47,28.5,59,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,31,Tafawa Balewa,219988,13,0,0.0013,0,59.09,24,29,62,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,32,Tafawa Balewa,219988,17,0,0.0018,0,77.28,31,27.8,67,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,33,Tafawa Balewa,219988,11,0,0.0011,0,50,32,31.7,65,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,34,Tafawa Balewa,219988,18,0,0.0019,0,81.82,19,29.4,68,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,35,Tafawa Balewa,219988,15,0,0.0015,0,68.19,25,32.1,64,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,36,Tafawa Balewa,219988,11,0,0.0011,0,50,21,34,55,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,37,Tafawa Balewa,219988,7,0,0.0007,0,31.82,14,30.5,65,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,38,Tafawa Balewa,219988,9,0,0.0009,0,40.91,21,33.2,76,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,39,Tafawa Balewa,219988,3,0,0.0003,0,13.64,29,31.3,65,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,40,Tafawa Balewa,219988,6,0,0.0006,0,27.27,14,31.1,66,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,41,Tafawa Balewa,219988,10,1,0.001,10,45.46,6,33.7,58,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,42,Tafawa Balewa,219988,11,0,0.0011,0,50,13,31.7,49,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,43,Tafawa Balewa,219988,4,0,0.0004,0,18.18,16,32.3,54,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,44,Tafawa Balewa,219988,3,0,0.0003,0,13.64,19,34.9,43,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,45,Tafawa Balewa,219988,5,0,0.0005,0,22.73,6,31.4,35,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,46,Tafawa Balewa,219988,6,0,0.0006,0,27.27,6,31.3,39,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,47,Tafawa Balewa,219988,4,0,0.0004,0,18.18,4,30.5,20,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,48,Tafawa Balewa,219988,0,0,0,0,0,0,33.5,31,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,49,Tafawa Balewa,219988,1,0,0.0001,0,4.55,1,32.4,37,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,50,Tafawa Balewa,219988,0,0,0,0,0,7,34.1,21,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,51,Tafawa Balewa,219988,1,0,0.0001,0,4.55,0,33.8,26,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,52,Tafawa Balewa,219988,3,0,0.0003,0,13.64,6,31.5,30,River,River ,High,Flush Toilet,30,15,Good,15,0,20,Moderate,High,Far,490,High
+2019,Bauchi,1,Toro,350404,0,0,0,0,0,4,36.6,23,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,2,Toro,350404,0,0,0,0,0,2,36.8,21,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,3,Toro,350404,0,0,0,0,0,4,36.8,22,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,4,Toro,350404,0,0,0,0,0,4,36.9,27,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,5,Toro,350404,0,0,0,0,0,0,34,20,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,6,Toro,350404,0,0,0,0,0,3,35.7,34,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,7,Toro,350404,0,0,0,0,0,4,34.3,32,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,8,Toro,350404,0,0,0,0,0,0,35.6,20,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,9,Toro,350404,2,0,0.0002,0,5.71,4,35.8,29,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,10,Toro,350404,0,0,0,0,0,12,38.8,33,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,11,Toro,350404,0,0,0,0,0,11,40.1,38,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,12,Toro,350404,0,0,0,0,0,4,38.3,37,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,13,Toro,350404,1,0,0.0001,0,2.85,25,32.1,41,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,14,Toro,350404,0,0,0,0,0,14,29.4,34,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,15,Toro,350404,0,0,0,0,0,24,30.2,44,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,16,Toro,350404,2,0,0.0002,0,5.71,20,31.6,35,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,17,Toro,350404,2,0,0.0002,0,5.71,23,31.3,81,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,18,Toro,350404,1,0,0.0001,0,2.85,20,27.1,77,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,19,Toro,350404,1,0,0.0001,0,2.85,20,27,69,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,20,Toro,350404,1,0,0.0001,0,2.85,30,32.4,79,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,21,Toro,350404,3,0,0.0003,0,8.56,30,29.3,58,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,22,Toro,350404,2,0,0.0002,0,5.71,40,29.9,73,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,23,Toro,350404,0,0,0,0,0,53,28,58,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,24,Toro,350404,3,0,0.0003,0,8.56,46,32.6,82,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,25,Toro,350404,2,0,0.0002,0,5.71,54,30.5,64,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,26,Toro,350404,2,0,0.0002,0,5.71,49,31.3,71,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,27,Toro,350404,0,0,0,0,0,32,29.5,79,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,28,Toro,350404,2,0,0.0002,0,5.71,49,28.1,66,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,29,Toro,350404,1,0,0.0001,0,2.85,29,31.8,61,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,30,Toro,350404,2,0,0.0002,0,5.71,39,29.9,61,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,31,Toro,350404,0,0,0,0,0,20,29.2,67,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,32,Toro,350404,2,0,0.0002,0,5.71,32,30.6,76,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,33,Toro,350404,6,0,0.0006,0,17.12,30,34.3,63,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,34,Toro,350404,0,0,0,0,0,35,30.3,64,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,35,Toro,350404,3,0,0.0003,0,8.56,33,31.5,83,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,36,Toro,350404,0,0,0,0,0,19,34.4,70,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,37,Toro,350404,1,0,0.0001,0,2.85,26,30.4,59,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,38,Toro,350404,1,0,0.0001,0,2.85,13,30.6,73,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,39,Toro,350404,0,0,0,0,0,13,31.5,64,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,40,Toro,350404,0,0,0,0,0,34,29.6,58,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,41,Toro,350404,1,0,0.0001,0,2.85,11,31.7,52,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,42,Toro,350404,0,0,0,0,0,6,30,37,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,43,Toro,350404,0,0,0,0,0,13,34.2,57,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,44,Toro,350404,0,0,0,0,0,18,30.1,39,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,45,Toro,350404,0,0,0,0,0,6,31.4,41,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,46,Toro,350404,0,0,0,0,0,7,33.8,43,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,47,Toro,350404,0,0,0,0,0,5,33.8,21,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,48,Toro,350404,0,0,0,0,0,7,30.8,37,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,49,Toro,350404,0,0,0,0,0,2,32.7,26,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,50,Toro,350404,0,0,0,0,0,0,34.2,26,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,51,Toro,350404,0,0,0,0,0,7,30.8,38,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,52,Toro,350404,0,0,0,0,0,3,34.3,29,Borehole ,Open Well,Low,Open Defecation,35,15,Poor,15,2,20,Low,Moderate,Near Pond,520,Medium
+2019,Bauchi,1,Katagum,84215,0,0,0,0,0,3,32.4,31,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,2,Katagum,84215,0,0,0,0,0,1,37.7,32,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,3,Katagum,84215,0,0,0,0,0,4,36.1,28,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,4,Katagum,84215,0,0,0,0,0,1,32.6,28,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,5,Katagum,84215,0,0,0,0,0,3,34.1,31,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,6,Katagum,84215,0,0,0,0,0,3,34.8,33,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,7,Katagum,84215,0,0,0,0,0,4,32.7,22,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,8,Katagum,84215,0,0,0,0,0,4,36.4,27,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,9,Katagum,84215,0,0,0,0,0,13,35.9,33,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,10,Katagum,84215,0,0,0,0,0,6,34.7,25,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,11,Katagum,84215,0,0,0,0,0,3,40.3,30,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,12,Katagum,84215,0,0,0,0,0,6,40.6,35,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,13,Katagum,84215,0,0,0,0,0,29,31.3,43,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,14,Katagum,84215,0,0,0,0,0,13,28.8,47,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,15,Katagum,84215,0,0,0,0,0,22,29.2,31,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,16,Katagum,84215,0,0,0,0,0,34,30.3,40,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,17,Katagum,84215,0,0,0,0,0,12,29.4,77,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,18,Katagum,84215,0,0,0,0,0,13,32.2,60,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,19,Katagum,84215,0,0,0,0,0,12,31.7,69,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,20,Katagum,84215,0,0,0,0,0,31,30.4,74,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,21,Katagum,84215,0,0,0,0,0,31,32.6,64,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,22,Katagum,84215,0,0,0,0,0,37,30.8,84,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,23,Katagum,84215,0,0,0,0,0,43,30.2,68,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,24,Katagum,84215,1,0,0.0001,0,11.87,25,27.8,61,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,25,Katagum,84215,0,0,0,0,0,33,27.5,75,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,26,Katagum,84215,0,0,0,0,0,54,28,56,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,27,Katagum,84215,0,0,0,0,0,54,29.1,74,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,28,Katagum,84215,0,0,0,0,0,37,30.8,79,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,29,Katagum,84215,0,0,0,0,0,21,27.8,76,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,30,Katagum,84215,0,0,0,0,0,52,32.5,68,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,31,Katagum,84215,0,0,0,0,0,20,30.6,76,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,32,Katagum,84215,0,0,0,0,0,22,32.7,60,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,33,Katagum,84215,0,0,0,0,0,34,33,56,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,34,Katagum,84215,0,0,0,0,0,17,31.9,58,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,35,Katagum,84215,0,0,0,0,0,34,30.4,67,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,36,Katagum,84215,0,0,0,0,0,37,33.7,82,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,37,Katagum,84215,0,0,0,0,0,22,34.6,74,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,38,Katagum,84215,0,0,0,0,0,27,30.7,60,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,39,Katagum,84215,0,0,0,0,0,38,29.1,56,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,40,Katagum,84215,0,0,0,0,0,37,31.2,73,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,41,Katagum,84215,0,0,0,0,0,6,33.7,44,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,42,Katagum,84215,0,0,0,0,0,3,31.9,52,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,43,Katagum,84215,0,0,0,0,0,16,34.9,53,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,44,Katagum,84215,0,0,0,0,0,10,29.9,43,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,45,Katagum,84215,0,0,0,0,0,3,31.8,53,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,46,Katagum,84215,0,0,0,0,0,6,34.2,35,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,47,Katagum,84215,0,0,0,0,0,3,33.8,27,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,48,Katagum,84215,0,0,0,0,0,0,31.4,39,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,49,Katagum,84215,0,0,0,0,0,4,33.7,25,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,50,Katagum,84215,0,0,0,0,0,6,34.3,24,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,51,Katagum,84215,0,0,0,0,0,3,32.4,22,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
+2019,Bauchi,52,Katagum,84215,0,0,0,0,0,6,33.2,33,Borehole ,Borehole,Low,Pit Latrine,25,20,Poor,18,1,35,Low,High,Far,460,Medium
